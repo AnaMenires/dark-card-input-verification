@@ -43,4 +43,4 @@ npm run dev
 
 ## 🌐 Link publicado
 Você também pode acessar pelo link abaixo:
-👉 
+👉 https://dark-card-input-verification.vercel.app/
